@@ -1,0 +1,14 @@
+layout_spectrum: 0.797034471295774
+typography_spectrum: 0.652087953640148
+color:
+  brandStrength: 0.30012108758091927
+  lightness: 0.16023820103146136
+  saturation: 0.07533882814459503
+  rhythmicContrast: 0.29162548785097897
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: naicipa
