@@ -1,4 +1,3 @@
-layout_spectrum: 0.797034471295774
 typography_spectrum: 0.652087953640148
 color:
   brandStrength: 0.30012108758091927
@@ -6,9 +5,10 @@ color:
   saturation: 0.07533882814459503
   rhythmicContrast: 0.29162548785097897
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-name: naicipa
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.797034471295774
+name: Naicipa
